@@ -1,0 +1,2 @@
+# The results will be saved in the directory ./datasets/mini/deform_label and ./datasets/mini/deform_trainA
+python test.py --dataroot ./datasets/mini --name pre_trained_model --CUT_mode CUT --no_flip --phase train
